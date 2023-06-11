@@ -1,0 +1,17 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+
+}
+
+span {
+    font-size: 20px;
+    color: red;
+}
+
+.bigYellow {
+    font-size: 20px;
+    color: yellow;
+}
